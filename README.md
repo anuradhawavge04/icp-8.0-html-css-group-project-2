@@ -24,6 +24,9 @@
 ## Price Page
 ![Price Page](/Images/price.png)
 
+## Services Page
+![Services Page](/Images/services.png)
+
 ## Contact Page
 ![Contact Page](/Images/contact.png)
 
